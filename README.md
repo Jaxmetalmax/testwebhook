@@ -1,4 +1,3 @@
 testwebhook
 Just some text to test
-other line to test
-some other line
+other line to test and removed the last one
