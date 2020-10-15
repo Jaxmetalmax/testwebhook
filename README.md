@@ -6,6 +6,3 @@ and other one
 otro mas sinior
 otro en dev para luego pasar a master 
 a ver ahora un PR
-
--------
-Primer test de gogs - push en develop
